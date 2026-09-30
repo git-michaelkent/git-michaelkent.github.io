@@ -5,4 +5,5 @@ WIP blog website
 - Non-google drive video hosting
 - Posts by type
   - Post enough to make this needed :P
-- Heading cycles through photos I've taken (with a complimentary gallary post)
+- Heading cycles through photos I've taken (with an accompanying gallary post)
+- Table of contents for post navigation by title/header
