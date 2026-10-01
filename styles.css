@@ -91,6 +91,13 @@ header p {
     flex-wrap: wrap;
 }
 
+.social-row {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    width: 100%;
+}
+
 .social-link {
     display: inline-flex;
     align-items: center;
