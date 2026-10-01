@@ -1,7 +1,7 @@
 const headerHTML = `
     <header style="font-family: sans-serif;">
         <p>Essays on</p>
-        personal progress, people, and programs
+        programs, people, and personal progress
     </header>
 `;
 
