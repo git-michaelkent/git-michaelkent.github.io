@@ -118,6 +118,7 @@ header p {
 .social-link svg {
     width: 24px;
     height: 24px;
+    object-fit: contain;
 }
 
 .social-link img.logo {
